@@ -1,4 +1,4 @@
-# 🔫 YOLOv8 Weapon Detection - Real-Time Test Project
+# YOLOv8 Weapon Detection - Real-Time Test Project
 
 Bu proje, Google Colab ortamında eğitilen YOLOv8-nano ve YOLOv8-medium modelleri kullanılarak geliştirilmiş, gerçek zamanlı görüntü analizi yapabilen bir silah tespit sistemidir.
 Model, hem kamera akışları üzerinden canlı tespit yapabilir, hem de fotoğraf veya video dosyaları üzerinden nesne tanıma gerçekleştirebilir.
@@ -32,7 +32,7 @@ Tasarımı sade, kurulumu kolay ve performans odaklıdır. Geliştirilen modelle
 
 ---
 
-📦 Model Dosyaları
+## Model Dosyaları
 
 Modelleri indirmek için GitHub Releases sekmesine göz atabilirsiniz:
 
